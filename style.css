@@ -35,15 +35,15 @@ img {
   justify-content: space-around;
   margin-top: 6rem;
 }
-.like-container h1{
-  font-size: 7rem;
+.like-container h1 {
+  font-size: 9rem;
 }
-.like-container .like-counter{
+.like-container .like-counter {
   padding-left: 2rem;
 }
-.like-btn{
-  transition: all .3s ease-in-out;
+.like-btn {
+  transition: all 0.3s ease-in-out;
 }
-.like-btn:active{
+.like-btn:active {
   transform: translateY(15%);
 }
